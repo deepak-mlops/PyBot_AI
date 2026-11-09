@@ -1,0 +1,6 @@
+{
+  "name": "PyBot AI – Python Programming Assistant",
+  "description": "Production-grade SaaS platform for Python developers, featuring ML question classification, verified knowledge base, interactive code runner, and intelligent programming assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
